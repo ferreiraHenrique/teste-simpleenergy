@@ -7,5 +7,7 @@
 
 ### Rodar projeto
 `python main.py`
+
 O script irá criar duas pastas com os nomes 321465 e 98465.
+
 Os arquivos serão salvos dentro de cada pasta correspondente.
